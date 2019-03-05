@@ -8,11 +8,18 @@ end
 
 # code your input_to_index and move method here!
 
+<<<<<<< HEAD
 
 
 # argument - what the user inputs 
 def input_to_index(index)
   index.to_i - 1
+=======
+# argument - what the user inputs 
+def input_to_index(index)
+  index.to_i - 1
+  
+>>>>>>> efbd8bd5525d020c5b7ea154c8125ffdb93ed7c6
 end
 
 # 1st argument - the board
